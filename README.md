@@ -29,7 +29,7 @@ CSS - Requisitos de estilização:
 5. A imagem deve ter bordas arredondadas e um tamanho adequado.
 6. A tabela deve estar estilizada.
 7. O linkdeve mudar de cor quando o usuário passar o mouse sobre ele.
-8. 
+
 JavaScript – adicionar um botão para interagir com a página
 
 • Criar um botão abaixo do parágrafo com o texto "Clique para ver uma
